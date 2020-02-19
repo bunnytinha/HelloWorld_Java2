@@ -2,6 +2,6 @@ public class HelloWorld /*como a classe é publica, o nome da classe está restr
 {
     public static void main (String [] args)
     {
-        System.out.println ("Hello, ");
+        System.out.println ("Hello, World");
     } 
 } 
